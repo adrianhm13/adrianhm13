@@ -7,6 +7,33 @@
 
 <table>
   <tr>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="Typescript"
+      />
+      <br /><strong>Typescript</strong>
+    </td>
+        <td align="center"height="108px" width="108px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
     <td align="center" height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
@@ -25,25 +52,25 @@
       />
       <br /><strong>CSS3</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+     <td align="center"height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="Emotion"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>Emotion/Styled</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+        <td align="center"height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="MaterialUI"
       />
-      <br /><strong>React</strong>
+      <br /><strong>MaterialUI</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+        <td align="center"height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -52,6 +79,8 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
+</tr>
+  <tr>
     <td align="center"height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
