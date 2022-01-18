@@ -119,3 +119,12 @@
     </td>
   </tr>
 </table>
+
+# 💼 Currently I'm working/learning on
+
+-Creating a portfolio to present myself as developer with a selected projects.
+-Studying Typescript
+
+# 🎓 Next steps
+
+-NodeJS, mongoDB, express
