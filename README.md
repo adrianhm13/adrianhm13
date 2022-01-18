@@ -120,10 +120,10 @@
   </tr>
 </table>
 
-# 💼 Currently I'm working/learning on
+# 💼 Currently I'm working on
 
 -Creating a portfolio to present myself as developer with a selected projects.
--Studying Typescript
+-Improving my skills with Typescript
 
 # 🎓 Next steps
 
