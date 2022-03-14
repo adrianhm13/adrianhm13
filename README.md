@@ -122,9 +122,9 @@
 
 # 💼 Currently I'm working on
 
--Creating a portfolio to present myself as developer with a selected projects.
+-Building a food app to improve my skills creating a backend with Node.js, express.
 -Improving my skills with Typescript
 
 # 🎓 Next steps
 
--NodeJS, mongoDB, express
+-Next.js
