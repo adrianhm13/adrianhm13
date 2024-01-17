@@ -119,12 +119,3 @@
     </td>
   </tr>
 </table>
-
-# 💼 Currently I'm working on
-
--Building a food app to improve my skills creating a backend with Node.js, express and MongoDB as database.
--Improving my skills with Typescript
-
-# 🎓 Next steps
-
--Next.js
