@@ -1,4 +1,4 @@
-# 📈 Stats
+# 📈 Stats 
 
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianhm13&show_icons=true&theme=material-palenight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianhm13&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td align="center"height="108px" width="108px">
+    <td align="center" height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -16,7 +16,7 @@
       />
       <br /><strong>JavaScript</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+    <td align="center" height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="48"
@@ -25,7 +25,7 @@
       />
       <br /><strong>Typescript</strong>
     </td>
-        <td align="center"height="108px" width="108px">
+    <td align="center" height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -36,86 +36,55 @@
     </td>
     <td align="center" height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Next.js"
       />
-      <br /><strong>HTML5</strong>
+      <br /><strong>Next.js</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+    <td align="center" height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-     <td align="center"height="108px" width="108px">
-      <img
-        src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png"
-        width="48"
-        height="48"
-        alt="Emotion"
-      />
-      <br /><strong>Emotion/Styled</strong>
-    </td>
-        <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="MaterialUI"
-      />
-      <br /><strong>MaterialUI</strong>
-    </td>
-        <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-</tr>
-  <tr>
-    <td align="center"height="108px" width="108px">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
         width="48"
         height="48"
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+</table>
+
+# 🛡 Testing
+
+<table>
+  <tr>
+    <td align="center" height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="Cypress"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Cypress</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+    <td align="center" height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Playwright"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Playwright</strong>
     </td>
-    <td align="center"height="108px" width="108px">
+    <td align="center" height="108px" width="108px">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Vitest"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Vitest</strong>
     </td>
   </tr>
 </table>
