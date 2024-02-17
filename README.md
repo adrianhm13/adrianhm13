@@ -26,6 +26,13 @@
       <br /><strong>Typescript</strong>
     </td>
     <td align="center" height="108px" width="108px">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"   
+        width="48"
+        height="48"
+        alt="Golang"/>  
+      <br /><strong>Go</strong>
+    </td>    
+    <td align="center" height="108px" width="108px">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
