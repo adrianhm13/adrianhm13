@@ -1,8 +1,8 @@
 # 📈 Stats 
 
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianhm13&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianhm13&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhm13&theme=material-palenight&layout=compact&exclude_repo=memories_tut,share-places-tut,pcbuilder,express-locallibrary,mini-message-board,node_basic_site,reddit-clone,shopping-cart,cv-project,cooking-learning,multipage-site-learning,memory-card,task-app,battleship,weather-app,form-exercise,library,restaurant-page,todo)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianhm13&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhm13&theme=tokyonight&layout=compact&exclude_repo=memories_tut,share-places-tut,pcbuilder,express-locallibrary,mini-message-board,node_basic_site,reddit-clone,shopping-cart,cv-project,cooking-learning,multipage-site-learning,memory-card,task-app,battleship,weather-app,form-exercise,library,restaurant-page,todo)
 
 # 🔧 Technologies & Tools
 
